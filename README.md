@@ -12,6 +12,7 @@ I love working with real-world data to support business decisions through clear 
 ⸻
 
 🧰 Tools & Technologies
+
 	•	📗 Excel – Data cleaning, analysis & reports
 	
 	•	📊 Power BI – Interactive dashboards & visuals
@@ -24,6 +25,7 @@ I love working with real-world data to support business decisions through clear 
 ⸻
 
 🎯 Current Focus
+
 	•	Creating Power BI dashboards
 	
 	•	Advanced SQL & DAX
