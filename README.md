@@ -1,41 +1,41 @@
-👋 Hi, I’m Pavan A P
+👋 Hey there, I’m Pavan A P
 
-🎓 BCA Graduate | 📊 Aspiring Data Analyst | 💡 Turning Data into Insights
+🎓 BCA Graduate | 📊 Aspiring Data Analyst | 💡 Exploring Insights Through Data
 
 ⸻
 
 🚀 About Me
 
-I’m passionate about exploring data, uncovering insights, and building interactive dashboards that tell a story.
-I love working with real-world data to support business decisions through clear visualizations and analytics.
+I’m a data enthusiast who loves turning numbers into meaningful insights.
+I enjoy creating dashboards, analyzing trends, and presenting data in ways that help make smarter decisions.
+Every project I take on is an opportunity to learn, explore, and tell a clearer data story.
 
 ⸻
 
 🧰 Tools & Technologies
 
-	•	📗 Excel – Data cleaning, analysis & reports
-	
-	•	📊 Power BI – Interactive dashboards & visuals
-	
-	•	🧮 SQL – Querying & transforming data
-	
-	•	📈 DAX – Custom calculations in Power BI
-	
+📗 Excel – Data cleaning, reporting, and analysis
+
+📊 Power BI – Building interactive dashboards and visuals
+
+🧮 SQL – Querying and transforming data
+
+📈 DAX – Power BI calculations and custom measures
 
 ⸻
 
 🎯 Current Focus
 
-	•	Creating Power BI dashboards
-	
-	•	Advanced SQL & DAX
-	
-	•	Enhancing data storytelling abilities
+• Developing Power BI dashboards
+
+• Enhancing SQL and Python skills
+
+• Improving data storytelling through visualization
 
 ⸻
 
 🌐 Connect With Me
 
-💼 LinkedIn: http://www.linkedin.com/in/pavan-ap-1455a0261
+💼 LinkedIn:http://www.linkedin.com/in/pavan-ap-1455a0261
 
-📧 Email: appavan9@gmail.com
+📧 Email:appavan9@gmail.com
