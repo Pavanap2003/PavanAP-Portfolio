@@ -36,6 +36,6 @@ I love working with real-world data to support business decisions through clear 
 
 🌐 Connect With Me
 
-💼 LinkedIn￼ http://www.linkedin.com/in/pavan-ap-1455a0261
+💼 LinkedIn: http://www.linkedin.com/in/pavan-ap-1455a0261
 
-| 📧 Email￼ appavan9@gmail.com
+📧 Email: appavan9@gmail.com
