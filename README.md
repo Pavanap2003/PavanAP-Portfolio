@@ -13,15 +13,21 @@ I love working with real-world data to support business decisions through clear 
 
 🧰 Tools & Technologies
 	•	📗 Excel – Data cleaning, analysis & reports
+	
 	•	📊 Power BI – Interactive dashboards & visuals
+	
 	•	🧮 SQL – Querying & transforming data
+	
 	•	📈 DAX – Custom calculations in Power BI
+	
 
 ⸻
 
 🎯 Current Focus
 	•	Creating Power BI dashboards
+	
 	•	Advanced SQL & DAX
+	
 	•	Enhancing data storytelling abilities
 
 ⸻
@@ -29,4 +35,5 @@ I love working with real-world data to support business decisions through clear 
 🌐 Connect With Me
 
 💼 LinkedIn￼ http://www.linkedin.com/in/pavan-ap-1455a0261
+
 | 📧 Email￼ appavan9@gmail.com
